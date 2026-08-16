@@ -56,7 +56,7 @@ print("\n===== Infos do DataSet =====")
 print(df.info())
 
 
-print("\n===== Estatísticas descritivas =====")
+print("\n===== Estatisticas descritivas =====")
 
 # Mostra estatísticas como média, desvio padrão,
 # valores mínimos, máximos e quartis
@@ -184,7 +184,7 @@ print(
 # Matriz de Confusão
 # ------------------------------------------------------------
 
-print("\n===== Matriz de Confusão =====")
+print("\n===== Matriz de Confusao =====")
 
 cm = confusion_matrix(
     Y_test,
