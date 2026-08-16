@@ -1420,8 +1420,6 @@ Se este projeto despertou sua curiosidade, você pode me encontrar por aqui:
 
 ---
 <p align="center">
-📚 **Bootcamp:** Bradesco - GenAI, Dados & Cyber | 🏫 **Plataforma:** DIO | 🐍 **Linguagem:** Python | 🔐 **Tema:** Detecção de anomalias em transações financeiras
+  📚 <strong>Bootcamp:</strong> Bradesco - GenAI, Dados & Cyber | 🏫 <strong>Plataforma:</strong> DIO | 🐍 <strong>Linguagem:</strong> Python | 🔐 <strong>Tema:</strong> Detecção de anomalias em transações financeiras
 </p>
 ---
-
-⭐ Este projeto faz parte da minha jornada de aprendizado e foi desenvolvido com o objetivo de transformar conceitos estudados em prática, documentando não apenas os resultados, mas também as dúvidas, experimentos e aprendizados encontrados ao longo do caminho.
